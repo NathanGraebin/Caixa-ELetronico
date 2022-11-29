@@ -3,6 +3,9 @@
 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
 
 28/11 - Inicio do projeto de criação de um Sistema de Cadastro utilizando Vetor. 
+29/11 - PROXIMA implementação : " ativação e desativação do Cartão de Credito " ( NÃO IMPLEMENTADO )
+29/11 - PROXIMA implementação : Manipulalção de arquivos ou então Salvar Cadastros em arquivo .txt ( NÃO IMPLEMENTADO )
+
 
 Já é possivel:
 
